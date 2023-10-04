@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![jingtao8a's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingtao8a&theme=radical&show_icons=true)
 <!--
 **jingtao8a/jingtao8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
