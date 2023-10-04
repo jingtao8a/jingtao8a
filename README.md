@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingtao8a&layout=compact&hide=php,makefile,html,css,shell,rebol,sourcepawn,assembly,pov-ray)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingtao8a&layout=compact&hide=php,makefile,html,css,shell,rebol,sourcepawn,assembly,pov-ray,cmake)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingtao8a&hide=php,makefile,html,css,shell,rebol,sourcepawn,assembly,pov-ray)](https://github.com/anuraghazra/github-readme-stats)
 ![jingtao8a's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingtao8a&theme=radical&hide=stars,contribs&show_icons=true&count_private=true)
 <!--
