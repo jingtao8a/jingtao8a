@@ -4,7 +4,7 @@
 ## Activity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingtao8a&layout=compact&hide=php,makefile,html,css,shell,rebol,sourcepawn,assembly,pov-ray+sdl,cmake,stylus,Yacc,Roff)](https://github.com/anuraghazra/github-readme-stats)
 
-![jingtao8a's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingtao8a&theme=radical&hide=stars,contribs&show_icons=true&count_private=true)
+![jingtao8a's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingtao8a&theme=radical&hide=&show_icons=true&count_private=true)
 <!--
 **jingtao8a/jingtao8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
