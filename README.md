@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🌱 I graduated from WuHan University in cs and am currently studying as a graduate student there.
+- 🌱 I graduated from Wuhan University in cs and am currently studying as a graduate student there.
 - 🔭 My research focuses on learned indexes in database systems.
 - 😄 My hobbies include swimming, body-building, basketball and movies.
 - ✨ Check out my [blog](https://jingtao8a.github.io) here.
