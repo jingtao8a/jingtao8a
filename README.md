@@ -4,9 +4,7 @@
 - 😄 My hobbies include swimming, body-building, basketball and movies.
 - ✨ Check out my [blog](https://jingtao8a.github.io) here.
 ## Activity
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingtao8a)](https://github.com/anuraghazra/github-readme-stats)
-
-![jingtao8a's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingtao8a&theme=radical&hide=&show_icons=true&count_private=true)
+<img src="https://raw.githubusercontent.com/jingtao8a/jingtao8a/main/profile/stats.svg" />
 <!--
 **jingtao8a/jingtao8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
