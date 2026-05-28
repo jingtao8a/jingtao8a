@@ -4,7 +4,7 @@
 - 😄 My hobbies include swimming, body-building, basketball and movies.
 - ✨ Check out my [blog](https://jingtao8a.github.io) here.
 ## Activity
-<img src="https://raw.githubusercontent.com/jingtao8a/jingtao8a/main/profile/stats.svg" />
+<img src="https://raw.githubusercontent.com/jingtao8a/jingtao8a/main/profile/top-langs.svg" />
 <!--
 **jingtao8a/jingtao8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
